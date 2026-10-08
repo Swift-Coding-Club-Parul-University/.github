@@ -12,14 +12,15 @@
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2FSwift-Coding-Club-Parul-University&query=%24.followers&label=followers&color=000000&style=flat-square" alt="Followers">
   <img src="https://img.shields.io/github/last-commit/Swift-Coding-Club-Parul-University/ssc?style=flat-square" alt="Last commit">
   <img src="https://img.shields.io/badge/est.-2023-000000?style=flat-square" alt="Established 2023">
-  <img src="https://img.shields.io/badge/Apple%20Authorized%20Training%20Center-000000?style=flat-square" alt="Apple Authorized Training Center">
+  <img src="https://img.shields.io/badge/Parul%20University-000000?style=flat-square" alt="Parul University">
+  <img src="https://img.shields.io/badge/Apple%20Authorized%20Training%20Center-F05138?style=flat-square" alt="Apple Authorized Training Center">
 </p>
 
 ---
 
 ## About
 
-Swift Coding Club started in **2023** as a place for students at Parul to learn Apple's language properly — not as a lecture hall, as a workshop floor. We sit inside the university's **Apple Authorized Training Center**, which means the tools are real and the bar is real.
+Swift Coding Club started in **2023** as a place for students at **Parul University** to learn Apple's language properly — not as a lecture hall, as a workshop floor. We sit inside the university's **Apple Authorized Training Center**, which means the tools are real and the bar is real.
 
 What a normal week looks like:
 
@@ -34,7 +35,7 @@ We care about the craft and the ethics around it: clean code, honest credit, eve
 
 1. **Teach Swift the way it's meant to be taught** — hands-on, project-first, no slide decks nobody reads.
 2. **Put more students into the Swift Student Challenge** every year, with mentorship all the way to submission.
-3. **Keep the community open** — anyone at Parul who wants to build is welcome, regardless of year or branch.
+3. **Keep the community open** — anyone at Parul University who wants to build is welcome, regardless of year or branch.
 
 ## Stats
 
