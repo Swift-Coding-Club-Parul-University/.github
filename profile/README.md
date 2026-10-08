@@ -61,9 +61,8 @@ We open recruitment in cohorts — watch this space.
 | | |
 | --- | --- |
 | Website | [scc.vercel.app](https://scc.vercel.app) |
-| Instagram | _coming soon_ |
-| LinkedIn | _coming soon_ |
-| X / Twitter | _coming soon_ |
+| Instagram | [@swiftcodingclub_pu](https://www.instagram.com/swiftcodingclub_pu) |
+| LinkedIn | [scc-pu](https://www.linkedin.com/company/scc-pu/) |
 | Discord | _coming soon_ |
 | Email | _coming soon_ |
 
