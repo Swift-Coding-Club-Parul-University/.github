@@ -59,7 +59,7 @@ We open recruitment in cohorts — watch this space.
 <!-- PLACEHOLDERS: swap these for real links when they're ready -->
 | | |
 | --- | --- |
-| Website | _coming soon_ |
+| Website | [scc.vercel.app](https://scc.vercel.app) |
 | Instagram | _coming soon_ |
 | LinkedIn | _coming soon_ |
 | X / Twitter | _coming soon_ |
