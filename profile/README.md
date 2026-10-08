@@ -45,12 +45,11 @@ We care about the craft and the ethics around it: clean code, honest credit, eve
 
 ## Team
 
-<!-- TODO: replace placeholder rows with real names/roles once confirmed -->
+<!-- TODO: fill Faculty Advisor once confirmed -->
 | Role | Who |
 | --- | --- |
-| Club Lead | _TBD_ |
+| Club Lead | Manav Sinh |
 | Faculty Advisor | _TBD_ |
-| Swift Student Challenge Mentor | _TBD_ |
 | Core Team | 8 members |
 
 ## Join
@@ -67,14 +66,4 @@ We open recruitment in cohorts — watch this space.
 | Email | _coming soon_ |
 
 In the meantime: **star a repo**, open an issue, or send a PR. That's how you say hello here.
-
-## Contributing & Code of Conduct
-
-Everything in this org is built by students, in the open.
-
-- Found a bug? Open an issue.
-- Want to ship something? Fork it, build it, send a PR.
-- Every contribution gets a review, and every review comes with context.
-
-Be kind, be direct, credit people for their work. That's the whole code of conduct.
 
