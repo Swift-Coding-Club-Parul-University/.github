@@ -55,14 +55,12 @@ We care about the craft and the ethics around it: clean code, honest credit, eve
 
 We open recruitment in cohorts — watch this space.
 
-<!-- PLACEHOLDERS: swap these for real links when they're ready -->
 | | |
 | --- | --- |
 | Website | [scc.vercel.app](https://scc.vercel.app) |
 | Instagram | [@swiftcodingclub_pu](https://www.instagram.com/swiftcodingclub_pu) |
 | LinkedIn | [scc-pu](https://www.linkedin.com/company/scc-pu/) |
-| Discord | _coming soon_ |
-| Email | _coming soon_ |
+| Email | [aatce@paruluniversity.ac.in](mailto:aatce@paruluniversity.ac.in) |
 
 In the meantime: **star a repo**, open an issue, or send a PR. That's how you say hello here.
 
