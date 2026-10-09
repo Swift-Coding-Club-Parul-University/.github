@@ -45,11 +45,10 @@ We care about the craft and the ethics around it: clean code, honest credit, eve
 
 ## Team
 
-<!-- TODO: fill Faculty Advisor once confirmed -->
 | Role | Who |
 | --- | --- |
 | Club Lead | Manav Sinh |
-| Faculty Advisor | _TBD_ |
+| Faculty Advisor | Umang Sir |
 | Core Team | 8 members |
 
 ## Join
