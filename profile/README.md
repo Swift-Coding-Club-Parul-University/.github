@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/est.-2023-000000?style=flat-square" alt="Established 2023">
   <img src="https://img.shields.io/badge/Parul%20University-000000?style=flat-square" alt="Parul University">
   <img src="https://img.shields.io/badge/Apple%20Authorized%20Training%20Center-F05138?style=flat-square" alt="Apple Authorized Training Center">
+  <img src="https://img.shields.io/badge/%E2%9C%93%20Verified-000000?style=flat-square" alt="Verified">
 </p>
 
 ---
